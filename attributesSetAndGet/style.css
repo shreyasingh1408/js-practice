@@ -1,0 +1,16 @@
+body{
+    background-color: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:40px
+}
+img{
+    height:200px;
+}
+button{
+    background-color: lightblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border:none;
+}
